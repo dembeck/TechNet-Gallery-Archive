@@ -1,4 +1,4 @@
-# Get-IniContent
+# Out-IniFile
 
 ## Notes
 
