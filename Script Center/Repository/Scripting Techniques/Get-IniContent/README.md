@@ -19,6 +19,7 @@
 
 |||
 | --- | --- |
+| Author:       |    Oliver Lipkau |
 | Summary:      |    Gets the content of an INI file |
 | Ratings:      |    5 Star(20) |
 | Category:     |    Scripting Techniques |
